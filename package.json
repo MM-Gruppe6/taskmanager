@@ -1,0 +1,23 @@
+{
+  "name": "taskmanager",
+  "version": "1.0.0",
+  "description": "Task manager for gruppe 6",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MM-Gruppe6/taskmanager.git"
+  },
+  "author": "Stefan, Charlotte, Katarina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MM-Gruppe6/taskmanager/issues"
+  },
+  "homepage": "https://github.com/MM-Gruppe6/taskmanager#readme",
+  "dependencies": {
+    "express.js": "^1.0.0"
+  }
+}
